@@ -1,6 +1,7 @@
 The Program is a solution to the Kingdom Rush Problem, i.e Problem B in Google Code Jam Round 1A.
 
-Problem :-
+The Problem
+===========
 
 Ryan is playing Kingdom Rush, a single-player tower defense game developed by Ironhide Game Studio. In Kingdom Rush, players earn stars by completing levels, in a way described below. Having more stars makes the player more powerful; so while Ryan might not be able to complete level 2 right away, he might be able to complete it after earning stars from level 1.
 
